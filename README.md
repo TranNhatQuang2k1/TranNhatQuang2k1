@@ -1,16 +1,12 @@
-### Hi there 👋
+👋 Hey everyone, I'm LEEQUANGXU
+✨Fullstack Web Developer✨
 
-<!--
-**TranNhatQuang2k1/TranNhatQuang2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ in/loanngo99
+ LeeQuangXu
+ dev.to/quang2k1.
+ nhatquangtran135@gmai.com
+ profile/u/buncode
+🖥️ I'm a full stack developer with a passion for building beautiful, functional, and scalable web applications.
+Well-versed in Front-End development. Good at Python, ReactJs, NextJS, NodeJs and CSS for web applications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ I am also passionate about writing and sharing my experiences. If you are interested in learning more about my work or simply want to connect with a fellow developer, please follow me on forums like Medium or dev.to.
